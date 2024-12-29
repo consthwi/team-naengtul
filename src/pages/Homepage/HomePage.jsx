@@ -56,7 +56,7 @@ const HomePage = () => {
       </div>
 
       <div className="menu-slide-turm">
-        <MenuSlide />
+        {/* <MenuSlide /> */}
         {/* RandomSlide에서 RandomeRecipe로 변경 */}
         <RandomRecipe />
         <div className="menu-slide-turm">
